@@ -15,4 +15,3 @@
 ## 其他
 
 参考项目：[https://github.com/Charleslink/rand-name](https://github.com/Charleslink/rand-name)
-
